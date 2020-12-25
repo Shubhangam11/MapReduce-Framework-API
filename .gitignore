@@ -1,0 +1,11 @@
+# the executables
+/mr-wordc
+/mr-sleep
+/mr-trace
+
+# object files
+/mapreduce.o
+
+# output directory
+/output
+
